@@ -4,4 +4,4 @@ import Parent from "./components/Parent";
 
 
 
-ReactDOM.render(<App />, document.getElementById("root"));
+ReactDOM.render(<Parent />, document.getElementById("root"));
